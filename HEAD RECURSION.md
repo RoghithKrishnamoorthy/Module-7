@@ -5,7 +5,7 @@ To write a Python program to demonstrate **Head Recursion** by finding and print
 
 ## 🧠 ALGORITHM:
 
-1. **Start**
+1. **Start** 
 2. Define a recursive function `fun(n)`
 3. In the function:
    - Create a recursive call at the **beginning** (Head Recursion)
